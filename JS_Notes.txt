@@ -1,0 +1,18 @@
+JS notes for the Game project!
+This'll be awesome!
+
+Legend:
+* Topic
+- Subtopic
+\o/ Pro tip
+(!) Important
+? Question
+
+Acronyms:
+
+
+
+
+General notes:
+~~~~~~~~~~~~~~
+* It is possible to open a js console (For example, from chrome via "Inspect element")

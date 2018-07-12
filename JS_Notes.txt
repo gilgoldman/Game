@@ -11,8 +11,23 @@ Legend:
 Acronyms:
 
 
+Useful packages:
+~~~~~~~~~~~~~~~~
+* UnderscoreJS - Lots of cool stuff
+
+
+
+Useful commands:
+~~~~~~~~~~~~~~~~
+* _.times(int, func) = runs func int times in increasing order
+  - _.times(3,whatIsNumber) = 1, 2, 3
 
 
 General notes:
 ~~~~~~~~~~~~~~
-* It is possible to open a js console (For example, from chrome via "Inspect element")
+\o/ It is possible to open a js console (For example, from chrome via "Inspect element")
+\o/ replace function replaces something in a string
+* console.log returns output to console
+
+* Two types of functions - those that return values and those that perform an
+  action that cannot be returned. Try to separate them as much as possible

@@ -1,2 +1,2 @@
 # Game
-A fun project to better understand C++, website building, and game design
+A fun project to better understand Javascript, website building, and game design

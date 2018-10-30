@@ -1,0 +1,15 @@
+Format:
+Name
+Link
+- General notes, summary
+* Sub-links
+
+
+
+GV(Google Ventures) library
+http://www.gv.com/library/
+- Design sprints
+- Research Sprints
+- How to build a war room
+- General notes on entrepreneurship, marketing, engineering, Hiring, etc. 
+* http://www.gv.com/sprint/

@@ -1,0 +1,28 @@
+Notes for Martin:
+
+* Product Vision , slide 7:
+	- Is it S.M.A.R.T:
+		- Specific: Target is as specific as possible
+		- Measurable: Indicator of progress
+		- Assignable: Who will do it?
+		- Realistic: Can be achieved with current resources
+		- Time limited: By when?
+	- Does the moon landing vision qualify? Why?
+
+* Elevator Pitch, slide 8:
+	* Perhaps a bit clumsy
+		- The three models?
+			- Why, how, what: Hardest to get right, most powerful
+			- Problem, solution, profit: Not too hard to do, usually limited in scope
+			- What, so what, now what: Easiest, most flexible
+
+* Siemens Lego City, slide 12:
+	- Perhaps we need to specify what is a SCRUM master and how they work before this?
+
+
+* Dots on slide 14
+
+
+(?) What's a Cynefin?
+(?) Timeframe?
+	

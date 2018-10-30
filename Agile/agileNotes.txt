@@ -1,0 +1,200 @@
+Agile in humans and organizations
+
+Legend:
+* Topic
+- subtopic
+-- Issue
+++ Solved, answered
+? Question
+(!) Important, pay attention!
+
+
+Acronyms:
+~~~~~~~~~
+
+
+
+Definitions:
+~~~~~~~~~~~~
+Facilitators = Stake holders, management, people in position of responsibility
+
+
+
+
+Notes from Martin:
+~~~~~~~~~~~~~~~~~~
+* Learning mode:
+  - Unknown Unknown: Never heard of it
+  - Known Unknown: Heard of it
+  - Unknown Known: You know what you don't know
+  - Known Known: You know what you know, it's routine
+
+* Push-Pull principle:
+  - "Is work being pushed to me, or am I pulling it?"
+  - Pull: Take initiative, look for things to do, take responsibility
+  - Push: Do what you must, wait to be told what to do
+
+* The relation of utilization is 1/(1-x)
+  - x axis is utilization, and y is wait time
+  - 1 is 100% utilization - 100% is impossible
+  - Around 50% is optimal
+
+* Anthill principle:
+  - The ants can be deployed to whatever the task is at hand from the anthill
+  - About 20-30% of the ants should be specialized (organization experts)
+  - Specialized ants should be deployed only when necessary, not all the time
+  - Experts should be kept at less than 50% workload
+  - "What would you choose? Pay a little for a simple ant to do something for
+    two months, or pay twice for a specialized ant to do it in 3 days?"
+  - According to Martin, the main issue is overloaded experts
+
+* Lean and agile depend far more on soft skills than hard skills
+  - A balanced integrated team of simple ants working together can do much more
+    then a group of specialized ants each doing its thing
+
+* Draw stuff!
+  - Cynefin model
+    - After the Marshmallow challenge: was it Chaotic? Simple? Complicated? Complex?
+  - Agile Product Ownership
+    - The pentagram of Siemens ownership
+      - PM, PRM, SysArch, PO, ScrumMaster - Stakeholders are the Product managers (PRM)
+
+* History:
+  - Lean - Toyota, manufacturing, 1950-1960
+  - Agile - 1990, software, agile manifesto
+
+
+
+Courses: Coursera Agile Development
+===================================
+Getting started: Agile meets Design Thinking
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* Steps of an agile process:
+  - Establish Personas: who wants this stuff?
+  - Problem scenario and alternatives: How to not build something nobody wants
+  - Value proposition and assumptions
+  - Customer Discovery and Experience
+  - User Stories and Prototypes
+  - Product and Promotion
+
+* What is Agile?
+  - Individuals and Interactions is better than processes and tools
+  - Working software is better than Working documentation
+    - documentation means plans and charts, not actual technical documentation
+  - Customer collaboration is better than contract negotiation
+  - Responding to change is better than following a place
+
+* Focus is on the user (customer/gamer/whatever)
+  - Testable narratives
+  - Frontload value: get the most valuable things out to the user and see if they work
+  - Focus on outcome, not output: it's what you do, not how much you do
+
+* Interdisciplinary collaboration is key
+  - Managers - Set SMART goals
+    - Specific, Measurable, Achievable, Realistic, Time limited
+    - Facilitators of work
+  - Specialists
+    - Create narratives for the users
+    -
+
+* Agile user story structure:
+  - As a [Persona], I want to [do something] so that I can [Derive a reward]
+  - Persona is a humanized view of the user
+    - Actionable
+    - Vivid
+    - Testable
+  - Example:
+    - As a [Social mom], I want to [see if anyone likes my Facebook post],
+      so that I can [decide if I want to go back and look at it]
+  - Stories backlog houses the individual stories by order of priority
+
+* Iterations:
+  - Iterations are 2-4 weeks
+    Iteration process:
+    - Define personas, problem scenarios and propositions
+    - Define User stories: Nice, vivid, testable narrative of what the user wants
+    - Discuss them as a teams
+      - Stories aren't an end, but a means to good specifications
+    - Develop
+    - Validate that the developed stuff works well and as intended
+      - Test in front of users!
+
+* Daily Stand up
+  - What did I do Yesterday?
+  - What do I plan to do today?
+  - What impedes my progress?
+
+* Burndown chart - a graph detailing progress
+  - X axis = Time, Y axis = Effort (days, story units, difficulty, etc.)
+
+* Common Agile methodologies: Scrum, Kanban, Extreme Programming(XP)
+
+* Scale friendly vs Innovation friendly
+  - Scale friendly: a plan, a product, and hopefully it'll be worth scaling
+    - Make a plan, get funded, rent an office, build a product, get a focus group together, ship
+  - Innovation friendly: Build something valuable first, cause scaling is easy 
+    - Check with customer for validity of idea, assure idea is good, ship MVP, gather and apply feedback, iterate 
+
+
+
+
+
+
+Documents: The Scrum Guide
+==========================
+* What is Scrum?
+  - A framework for developing, delivering, and supporting complex products
+  - Lightweight, simple, hard to master
+  - More than software
+  - Iterative, incremental improvement
+  - Small, flexible teams
+  - Empiricist: Knowledge comes from experience and decision making
+
+* What is it good for?
+  - Research:
+    - Viable markets
+    - Technologies
+    - Product capabilities
+  - Develop and release products
+  - Sustain and renew products
+  - Hardware, Software, Embedded, networks, schools, government, marketing, etc.
+
+* Three pillars of Empirical processes:
+  - Transparency
+    - Everyone should know and understand the important bits
+    - Everyone should share a language
+    - Everyone should share a common definition of "Done"
+  - Inspection
+    - Artifacts should be inspected rigorously, but not too often
+  - Adaptation
+    - Unacceptable results must lead to adjustments
+    - Adjustments are to be made as soon as possible
+  (!) The four Inspection and Adjustment events:
+    - Sprint planning
+    - Sprint Review
+    - Sprint Retrospective
+    - Daily Scrum
+
+* Scrum Values:
+  - Commitment
+    - People are personally committed to achieving goals
+  - Courage
+    - People do the right thing and tackle tough problems
+  - Focus
+    -Everyone focus on the work and the goals
+  - Openness
+    - Facilitators and Scrum team are open about the work and challenges
+  - Respect
+    - People respect each other as capable, independent people
+
+
+
+
+
+
+
+
+
+
+
+.

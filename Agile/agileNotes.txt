@@ -187,8 +187,67 @@ Documents: The Scrum Guide
   - Respect
     - People respect each other as capable, independent people
 
+* Scrum Teams:
+  - Product Owner
+    - Responsible for maximizing product value
+    - Sole responsible for backlog management:
+      - Backlog items are clear, visible, and transparent
+      - Prioritizing backlog
+      - Optimize Dev team
+      - Ensure Dev team understands all backlog tasks
+      - Ultimately accountable for all these
+      - Ultimate authority for backlog
+      - May cancel a sprint if required - though has to be used carefully!
+  - Development Team
+    - Manages their own work
+    - Self organizing - No one but them may tell them how to achieve "Done"
+    - Cross functional - Members have all skills necessary for the task
+    - No titles - regardless of work being performed
+    - No sub-teams - regardless of testing, architecture, ops, etc.
+    - The entire team is accountable, regardless of specialized individual skills
+    - Optimal Dev team size is 3-9, excluding PO and SM (Unless they're also developing)
+  - Scrum Master
+    - Servant-leader 
+    - Helps outsiders (and scrum team members) maintain helpful interactions with the Scrum team
+    - SM service to PO:
+      - Goal, Scope, and product domain are clear to all
+      - Provides techniques for effective backlog management
+      - Helps backlog items stay clear and concise
+      - Helps prioritize backlog
+      - Support study and implementation of Agility
+      - Facilitating Scrum events when requested or needed
+    SM service to Dev Team:
+      - Coaching in Self organization and cross functionality
+      - Assist in creating high value products
+      - Removing impediments
+      - Facilitating Scrum events when requested or needed
+      - Coaching in organizations where Scrum is not fully adopted and understood
+    SM service to organization:
+      - Leading and coaching Scrum adoption
+      - Planning Scrum implementation
+      - Helping stakeholders enact Scrum and empirical product development
+      - Change what is needed to increase Scrum team productivity
+      - Coordinate with other Scrum masters within organization
 
-
+* Scrum Events:
+  - Opportunities to examine or change something (except sprints)
+  - All events are time-boxed (have a maximum duration)
+  - May end early if event has served its purpose
+  - The Sprint:
+    - Constant time (cannot be shortened or lengthened) during development process
+    - One month (or less)
+    - A product increment is to be created (A usable/releasable increment)
+      - A sprint is a project with an outcome
+    - No changes that mess with goal
+    - Quality goals stay the same
+    - Scope may be re-negotiated between PO and SM
+    - Has a goal, a design, a flexible plan, the work, and product increment
+  - Sprint planning:
+  	- Time-boxed to 8 hours per 1 month, less for shorter sprints
+  	- A sprint planning event answers:
+  	  - What can be delivered by this sprint?
+  	  - What needs to be done for the increment to be achieved?
+  	
 
 
 

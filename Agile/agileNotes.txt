@@ -192,12 +192,13 @@ Documents: The Scrum Guide
     - Responsible for maximizing product value
     - Sole responsible for backlog management:
       - Backlog items are clear, visible, and transparent
-      - Prioritizing backlog
+      - Prioritizing backlog (Backlog grooming once a week with everyone?)
       - Optimize Dev team
       - Ensure Dev team understands all backlog tasks
       - Ultimately accountable for all these
       - Ultimate authority for backlog
       - May cancel a sprint if required - though has to be used carefully!
+      - May use ""No"" liberally - can't allow all features
   - Development Team
     - Manages their own work
     - Self organizing - No one but them may tell them how to achieve "Done"
@@ -254,6 +255,171 @@ Documents: The Scrum Guide
 
 
 
+
+* PO Questions for interview:
+How much customer contact is conducted in BISIM, and by who?
+	- to Martin, to TSS, to me
+1) Is there a defined product vision? What is the product vision?
+	- 
+2) How much wiggle room would I have? i.e. what would be the scope of the PO's responsibilities? 
+3) Is the main client governments? How much documentation and red tape are we looking at? 
+	-technical sales support helps with this
+4) Do we adapt the product to one client, or do we create the best product we can and find clients?
+	- Tension
+5) How much of the team is in Prague? Where are the others?
+	- How much travel is expected?
+	-  about 4-5 trips a year, 3-4 days, approx. one or two overseas, about 
+	- Two major conferences, expected to go to at least one
+6) Is there a Scrum Master (or equivalent)? Or would I need to hire one?
+	- Doing both is possible, but would impair effectiveness of everyone and usually means the team suffers
+7) Is there a known WIP (Work in Progress) limit?
+	?
+
+* Formal performance review every 6 months
+* There'll always be more projects, the team is prime priority
+* Once every two weeks an afternoon of "playing" the sim
+* Second interview  - 4.5 hours 
+	- CV
+	- Agile
+	- Technical
+	- People management
+	- Head of block chat for 30 minutes
+
+
+
+* PO Tips:
+Challenges question:
+	- This is a super exciting opportunity to meet the challenges head on with the skills I've learned to-date
+	- Able to employ all I learned teaching Agile and enjoy using it to the max
+MVP FTW:
+	- Customer feedback
+	- Analytics
+	- Get something out the door, improve later
+	- Build from scooter to car, not parts of a car!!!
+There is only one boss in the company - the customer. And he can fire everybody
+Create focus, and be crystal clear on the product vision!
+First reduce Uncertainty, then increase value
+Weekly Backlog grooming? No lying!
+Update Team forecasts every week
+
+* Q&A:
+? How would a typical week look to you? (typical sprint)
+	- Assure the Dev team knows what their tasks are and that they are on track
+	- Coordinate with Management to see that all is going according to the long term plan
+		- Discuss if goals and vision are still relevant
+	- Coordinate with high-impact customers
+		- "There's only one boss - the customer"
+	- Backlog grooming - is everything on track? Do we need to update anything?
+	- Daily/bi-daily stand-ups
+	- Update data - Team forecasts, stakeholder matrix, NFR's, etc.
+	- Prepare next sprint if relevant
+? Describe a sprint planning meeting
+	- Collaboratively decide on what to do
+		- Decision poker, shirt sizes, whatever we agree on with the team
+	- Prepare stories in advance, maybe with test team
+
+
+
+PO Tools:
+* Impact Mapping:
+- Group participation of people from different disciplines
+- Relates deliverables to desired impacts towards a goal
+- Focuses discussion around goals
+(!) Preferably, people should be in the same physical location - problematic for distributed teams!(!)
+(!) Useful to bring depth and structure to a backlog (!)
+(!) Can solve a Scrum Issue - how to track a sprint goal, or how to prioritize a sprint backlog (!)
+""There is nothing quite so useless as doing with great efficiency something that should not be done at all""
+
+	- Start with a goal - measurable, clear goal with a time box _____(Why?)
+		- Clarify why It is important to achieve this goal!
+	- People - who's needed to achieve the goal _____(Who?)
+		- Can be both internal or external
+			- External: Trainees or experts
+			- Useful to utilize personas here - avoid generic terms like "Users"
+			- Also consider people who can hinder or damage
+	- Impact - How should people's behavior change? _____(How?)
+		- Each change should be a measurable part of the map
+	- Deliverables - What can we as a team do to inspire the desired behavior change? _____(What?)
+
+	Example:
+	Goal: Increase online sales by 10% by the end of the year
+	People: 
+		Internal: Program Manager; Dev Team
+		External: Returning users; First Time users;
+	Impact: 
+		Returning Users: Refer more friends; Buy more items
+		Program Manager: Add competing work (Hindering)
+	Deliverables: 
+		Refer more friends: Personal discount code
+		Buy more items: Promotion
+		Add competing work: Set ground rules
+
+* Business Model Generation/Business model canvas
+- Use Visualization to better communicate
+- Narrows down any business to 9 basic building blocks
+	- Value proposition: What value would the business bring (what will it change?)
+	- Customer segment: who the customers are?
+	- Channels: How and where can the value be delivered?
+	- Customer relationships: How do you connect to your clients?
+	- Revenue Streams: a summary of the revenue channels
+	- Key resources: What is needed to pull it all off
+	- Key activities: What will be done to increase value?
+	- Key partners: Who needs to be partnered up with to increase value?
+	- Cost structure: What are the costs?
+
+
+	Example: Sammy Super Sandwich shop
+	- Value proposition: Provide people with low cost, tasty organic sandwiches
+	- Customer Segment: Successful and struggling entrepreneurs 
+	- Channels: Kiosks (to reach everyday people), Specialty shops (for successful entrepreneurs), Supermarkets (prepackaged sandwiches)
+	- Customer relationships: National add campaign, billboards, and coupons on the local newspaper; Loyalty card
+	- Revenue Streams: Sandwich sales, Drinks, Apparel, Secret hot sauce
+	- Key resources: Locations, Secret formula, Chefs
+	- Key activities: Add campaign, creating new recipes for sandwiches
+	- Partners: Local farmers, a distributor, manufacturer to produce clothing
+	- Cost structure: Farmers (food), Trucks (delivery), Add campaign, clothing manufacturing, salaries for chefs, store rent
+
+	Subtract costs from revenue to get the expected profit
+
+
+* MoSCoW: Agree with the stakeholders about the following:
+	- Must have: Critical, without it the sprint fails
+	- Should have: Important, not needed immediately 
+	- Can have: 
+	- Won't have: 
+
+* The 100 dollar test:
+	- Split a 100 dollars among the proposed tasks. Review
+
+* The Iron Triangle vs The agile triangle:
+- Scope vs Value
+- Cost vs Quality
+- Schedule vs Constraints
+
+* Value Proposition
+
+* Stakeholder map: write down major customers on a matrix to determine how to handle them
+- x axis is level of interest from low to high
+- Y axis is level of power (influence on project future) from low to high
+- Quadrants:
+	- High power high interest: Manage Closely
+	- High power low interest: Keep satisfied
+	- Low power high interest: Keep informed
+	- Low power low interest: Monitor (minimum effort)
+
+* Delegation Poker:
+
+
+
+General Acronyms:
+- Product backlog items should INVEST:
+	- Independent: Self contained, preferably no dependencies 
+	- Negotiable: Not explicit contracts
+	- Valuable: Must deliver value
+	- Estimate-able: Possible to determine its size
+	- Small: Should be small enough to handle and prioritize
+	- Testable: Must provide information to enable testing
+NFR: Non functional requirements (Quality, safety, etc.)
 
 
 .

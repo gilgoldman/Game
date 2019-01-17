@@ -1,0 +1,42 @@
+Notes for Hack@Siemens
+
+Legend:
+* Topic
+- subtopic
+-- Issue
+++ Solved, answered
+? Question
+(!) Important, pay attention!
+/|\ Task, to do
+
+
+* Hackathon can be used as an educational tool
+
+* Hackathon can be open to the public:
+  - Increase interest in Siemens
+  - Improve application rates
+  - Improve in house technical skills
+  - Improve communication
+  - 
+
+
+
+
+
+
+
+
+
+
+
+General, non specific questions:
+--------------------------------
+? Could this count towards PM@Siemens stuff?
+
+
+
+Supporting sources:
+-------------------
+
+Stack Exchange 2017 developer survey:
+https://insights.stackoverflow.com/survey/2018/
